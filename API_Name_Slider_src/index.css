@@ -1,0 +1,21 @@
+*{
+  font-size: 20px;
+}
+.card{
+   border : 1px solid black;
+   border-radius: 6px;
+   padding : 10px;
+   margin :5px auto;
+   width:300px;
+   text-align: center;
+   font-size: 25px;
+   min-height : 50px;
+
+}
+.App{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 5px auto;
+  padding: 5px;
+}
